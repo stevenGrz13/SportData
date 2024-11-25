@@ -1,0 +1,27 @@
+﻿@model SportData.Models.Sport
+
+@{
+    ViewData["Title"] = "Modifier";
+}
+
+<h1>Modifier un Sport</h1>
+
+<h4>Sport</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label">Nom du Sport</label>
+                <input asp-for="Nom" class="form-control" placeholder="Entrez le nom du sport" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Enregistrer" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+            </div>
+        </form>
+    </div>
+</div>

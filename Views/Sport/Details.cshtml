@@ -1,0 +1,25 @@
+﻿@model SportData.Models.Sport
+
+@{
+    ViewData["Title"] = "Détails";
+}
+
+<h1>Détails du Sport</h1>
+
+<div>
+    <h4>Sport</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nom)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary">Modifier</a> |
+    <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+</div>

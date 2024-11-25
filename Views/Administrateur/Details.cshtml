@@ -1,0 +1,42 @@
+﻿@model SportData.Models.Administrateur
+
+@{
+    ViewData["Title"] = "Détails";
+}
+
+<h1>Détails</h1>
+
+<div>
+    <h4>Administrateur</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AdresseCourriel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AdresseCourriel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MotDePasse)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MotDePasse)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Identifiant)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Identifiant)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Organisation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Organisation.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Modifier</a> |
+    <a asp-action="Index">Retour à la liste</a>
+</div>
