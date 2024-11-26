@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\STEVEN\\SportData\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\administrateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\administrateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\administrateur\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\administrateur\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\administrateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\administrateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\administrateur\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -147,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\evenementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\evenementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -218,7 +218,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 925,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,31 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrateur\\Index.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
-              "RelativeToolTip": "Views\\Administrateur\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:09:06.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evenement\\Create.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
-              "RelativeToolTip": "Views\\Evenement\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:23:26.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Organisation\\Create.cshtml",
@@ -262,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Sport\\Create.cshtml",
@@ -274,32 +250,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "AdministrateurController.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\AdministrateurController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdministrateurController.cs",
               "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\AdministrateurController.cs",
               "RelativeToolTip": "Controllers\\AdministrateurController.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAADwv6AAAABAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswF0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T15:07:25.86Z"
+              "WhenOpened": "2024-11-22T15:07:25.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\STEVEN\\SportData\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAARAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T09:23:45.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T09:23:45.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Coach\\Create.cshtml",
@@ -311,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -323,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmployeController.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\EmployeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeController.cs",
@@ -335,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Employe\\Login.cshtml",
@@ -344,6 +320,43 @@
               "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-22T16:11:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\STEVEN\\SportData\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T09:16:59.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evenement\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
+              "RelativeToolTip": "Views\\Evenement\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:23:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrateur\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
+              "RelativeToolTip": "Views\\Administrateur\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:09:06.49Z"
             },
             {
               "$type": "Document",
@@ -359,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Administrateur\\Create.cshtml",
@@ -371,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Employe.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Employe.cs",
               "RelativeDocumentMoniker": "Models\\Employe.cs",
@@ -383,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -395,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Administrateur\\Delete.cshtml",
@@ -407,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Coach\\Index.cshtml",
@@ -419,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Evenement\\Index.cshtml",
@@ -431,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Organisation\\Index.cshtml",
@@ -443,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20241122150413_AdminMigration.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241122150413_AdminMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20241122150413_AdminMigration.cs",
@@ -455,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Sport\\Delete.cshtml",
@@ -467,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Sport\\Index.cshtml",
@@ -479,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Administrateur\\Edit.cshtml",
@@ -491,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Administrateur\\Details.cshtml",
@@ -503,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Sport\\Edit.cshtml",
@@ -515,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Sport\\Details.cshtml",
@@ -527,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Administrateur.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Administrateur.cs",
               "RelativeDocumentMoniker": "Models\\Administrateur.cs",
@@ -539,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Evenement\\Edit.cshtml",
@@ -551,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Coach\\Delete.cshtml",
@@ -563,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Coach\\Details.cshtml",
@@ -575,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Evenement\\Details.cshtml",
@@ -587,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Coach\\Edit.cshtml",
@@ -599,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Evenement\\Delete.cshtml",
@@ -611,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Utilisateur.cs",
               "RelativeDocumentMoniker": "Models\\Utilisateur.cs",
@@ -623,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Organisation\\Edit.cshtml",
@@ -635,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Organisation\\Details.cshtml",
@@ -647,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Organisation\\Delete.cshtml",
@@ -671,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
@@ -716,18 +729,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-20T14:04:59.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\STEVEN\\SportData\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T09:16:59.32Z"
             },
             {
               "$type": "Document",
