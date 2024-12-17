@@ -19,7 +19,7 @@ namespace SportData.Models
         public string Prenom { get; set; }
 
         [Column("adressecourriel")]
-        public string AdresseCourriel { get; set;}
+        public string AdresseCourriel { get; set; }
 
         [Column("motdepasse")]
         public string? MotDePasse { get; set;}
@@ -27,6 +27,10 @@ namespace SportData.Models
         [Column("validation")]
         [DefaultValue(false)]
         public bool Validation { get; set; }
+
+        [Column("traitement")]
+        [DefaultValue(false)]
+        public bool Traitement { get; set; }
 
         [Column("idorganisation")]
         [DisplayName("organisation")]

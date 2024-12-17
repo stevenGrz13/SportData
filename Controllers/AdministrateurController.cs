@@ -45,6 +45,11 @@ namespace SportData.Controllers
             return View(administrateur);
         }
 
+        public IActionResult PageLoginAdmin()
+        {
+            return View();
+        }
+
         // GET: Administrateur/Create
         public IActionResult Create()
         {
@@ -139,6 +144,25 @@ namespace SportData.Controllers
             }
 
             return View(administrateur);
+        }
+
+        [HttpPost]
+        public IActionResult ValiderEmploye(int idemploye)
+        {
+            Employe employe = _context.Employe.FirstOrDefault(a => a.Id == idemploye);
+            employe.Validation = true;
+            employe.Traitement = true;
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Employe");
+        }
+
+        [HttpPost]
+        public IActionResult RefuserEmploye(int idemploye)
+        {
+            Employe employe = _context.Employe.FirstOrDefault(a => a.Id == idemploye);
+            employe.Traitement = true;
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Employe");
         }
 
         // POST: Administrateur/Delete/5

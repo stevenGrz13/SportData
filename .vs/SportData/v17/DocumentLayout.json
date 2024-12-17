@@ -7,32 +7,128 @@
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\administrateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\employecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\employecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenementspec\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenementspec\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\evenementspeccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\evenementspeccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\evenementspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\evenementspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\evenementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\evenementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\organisation\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\organisation\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\organisation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\organisation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\pageloginemploye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\pageloginemploye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\employe\\attente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\employe\\attente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\employecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\employecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\migrations\\20241126123754_traitementemployemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:migrations\\20241126123754_traitementemployemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\sport\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\administrateur\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -65,14 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\organisation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\organisation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\sport\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,24 +191,8 @@
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:migrations\\20241122150413_adminmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\coach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\organisation\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\organisation\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\organisation\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\organisation\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\organisation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -135,10 +203,6 @@
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\evenement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\evenement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -147,24 +211,8 @@
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\coach\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\evenementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\evenementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\evenementspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\evenementspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -175,20 +223,8 @@
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:controllers\\sportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\evenement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\evenement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|solutionrelative:models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6764745-EFF7-4F05-A083-F6D07177414B}|SportData.csproj|d:\\steven\\sportdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -218,7 +254,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 925,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,27 +262,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organisation\\Create.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Create.cshtml",
-              "RelativeToolTip": "Views\\Organisation\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\EvenementSpec\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\EvenementSpec\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\EvenementSpec\\Details.cshtml",
+              "RelativeToolTip": "Views\\EvenementSpec\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:25:43.955Z"
+              "WhenOpened": "2024-11-29T09:55:06.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Sport\\Create.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Create.cshtml",
-              "RelativeToolTip": "Views\\Sport\\Create.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "EvenementSpec.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\EvenementSpec.cs",
+              "RelativeDocumentMoniker": "Models\\EvenementSpec.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Models\\EvenementSpec.cs",
+              "RelativeToolTip": "Models\\EvenementSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:39:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T13:59:42.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evenement\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Details.cshtml",
+              "RelativeToolTip": "Views\\Evenement\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:15:31.775Z"
+              "WhenOpened": "2024-11-22T14:22:45.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvenementSpecController.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\EvenementSpecController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EvenementSpecController.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\EvenementSpecController.cs",
+              "RelativeToolTip": "Controllers\\EvenementSpecController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:50:03.626Z"
             },
             {
               "$type": "Document",
@@ -256,195 +328,62 @@
               "RelativeDocumentMoniker": "Controllers\\AdministrateurController.cs",
               "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\AdministrateurController.cs",
               "RelativeToolTip": "Controllers\\AdministrateurController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAswF0AAAAuAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T15:07:25.86Z",
+              "WhenOpened": "2024-11-26T13:46:13.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\STEVEN\\SportData\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAArAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T09:23:45.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Coach\\Create.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Create.cshtml",
-              "RelativeToolTip": "Views\\Coach\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:20:27.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T13:58:55.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeController.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\EmployeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeController.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\EmployeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAzwBkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:09:39.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employe\\Login.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Login.cshtml",
-              "RelativeToolTip": "Views\\Employe\\Login.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T16:11:34.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\STEVEN\\SportData\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T09:16:59.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evenement\\Create.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
-              "RelativeToolTip": "Views\\Evenement\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:23:26.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrateur\\Index.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
-              "RelativeToolTip": "Views\\Administrateur\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:09:06.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "20241122160812_EmployeMigration.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241122160812_EmployeMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241122160812_EmployeMigration.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241122160812_EmployeMigration.cs",
-              "RelativeToolTip": "Migrations\\20241122160812_EmployeMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:08:12.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrateur\\Create.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Create.cshtml",
-              "RelativeToolTip": "Views\\Administrateur\\Create.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:11:42.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employe.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Employe.cs",
-              "RelativeDocumentMoniker": "Models\\Employe.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Employe.cs",
-              "RelativeToolTip": "Models\\Employe.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCMAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:59:37.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\STEVEN\\SportData\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T09:47:11.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrateur\\Delete.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Administrateur\\Delete.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAEsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:10:35.655Z"
+              "WhenOpened": "2024-11-20T13:58:55.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Coach\\Index.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Index.cshtml",
-              "RelativeToolTip": "Views\\Coach\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coach\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Details.cshtml",
+              "RelativeToolTip": "Views\\Coach\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:19:15.737Z"
+              "WhenOpened": "2024-11-22T14:16:03.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evenement\\Index.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Index.cshtml",
-              "RelativeToolTip": "Views\\Evenement\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:20:02.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Organisation\\Index.cshtml",
@@ -456,355 +395,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20241122150413_AdminMigration.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241122150413_AdminMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241122150413_AdminMigration.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241122150413_AdminMigration.cs",
-              "RelativeToolTip": "Migrations\\20241122150413_AdminMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T15:04:14.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Sport\\Delete.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Sport\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:15:08.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Sport\\Index.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Index.cshtml",
-              "RelativeToolTip": "Views\\Sport\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evenement\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Index.cshtml",
+              "RelativeToolTip": "Views\\Evenement\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:21:03.966Z"
+              "WhenOpened": "2024-11-20T14:20:02.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrateur\\Edit.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Administrateur\\Edit.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:09:37.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Administrateur\\Details.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Details.cshtml",
-              "RelativeToolTip": "Views\\Administrateur\\Details.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:10:08.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Sport\\Edit.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Sport\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:13:42.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Sport\\Details.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Details.cshtml",
-              "RelativeToolTip": "Views\\Sport\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T15:14:12.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Administrateur.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Administrateur.cs",
-              "RelativeDocumentMoniker": "Models\\Administrateur.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Administrateur.cs",
-              "RelativeToolTip": "Models\\Administrateur.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:51:39.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evenement\\Edit.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Evenement\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:21:35.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Coach\\Delete.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Coach\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:20:02.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Coach\\Details.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Details.cshtml",
-              "RelativeToolTip": "Views\\Coach\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:16:03.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evenement\\Details.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Details.cshtml",
-              "RelativeToolTip": "Views\\Evenement\\Details.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:22:45.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Coach\\Edit.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Coach\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:15:32.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Evenement\\Delete.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Evenement\\Delete.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:23:01.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Utilisateur.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Utilisateur.cs",
-              "RelativeDocumentMoniker": "Models\\Utilisateur.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Utilisateur.cs",
-              "RelativeToolTip": "Models\\Utilisateur.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:29:15.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organisation\\Edit.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Organisation\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:24:23.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organisation\\Details.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Details.cshtml",
-              "RelativeToolTip": "Views\\Organisation\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:25:06.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Organisation\\Delete.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Organisation\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:25:21.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Coach.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Coach.cs",
-              "RelativeDocumentMoniker": "Models\\Coach.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Coach.cs",
-              "RelativeToolTip": "Models\\Coach.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T10:11:09.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T13:59:42.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CoachController.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\CoachController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoachController.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\CoachController.cs",
-              "RelativeToolTip": "Controllers\\CoachController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwDsAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:47:37.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "EvenementSpec.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\EvenementSpec.cs",
-              "RelativeDocumentMoniker": "Models\\EvenementSpec.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Models\\EvenementSpec.cs",
-              "RelativeToolTip": "Models\\EvenementSpec.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:39:38.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:04:59.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 7,
               "Title": "EvenementController.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\EvenementController.cs",
               "RelativeDocumentMoniker": "Controllers\\EvenementController.cs",
               "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\EvenementController.cs",
               "RelativeToolTip": "Controllers\\EvenementController.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAqwIgAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T13:51:38.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20241120143843_SpecificiteEvenementMigration.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
-              "RelativeToolTip": "Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:38:44.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "OrganisationController.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\OrganisationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OrganisationController.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\OrganisationController.cs",
-              "RelativeToolTip": "Controllers\\OrganisationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:49:22.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "SportController.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\SportController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SportController.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\SportController.cs",
-              "RelativeToolTip": "Controllers\\SportController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:48:43.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "20241120134333_EntiteMigration.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241120134333_EntiteMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241120134333_EntiteMigration.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241120134333_EntiteMigration.cs",
-              "RelativeToolTip": "Migrations\\20241120134333_EntiteMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:43:33.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Evenement.cs",
-              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Evenement.cs",
-              "RelativeDocumentMoniker": "Models\\Evenement.cs",
-              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Evenement.cs",
-              "RelativeToolTip": "Models\\Evenement.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:32:39.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 11,
               "Title": "Organisation.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Organisation.cs",
               "RelativeDocumentMoniker": "Models\\Organisation.cs",
@@ -816,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 12,
               "Title": "Sport.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Sport.cs",
               "RelativeDocumentMoniker": "Models\\Sport.cs",
@@ -828,7 +443,535 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Models\\Utilisateur.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "Models\\Utilisateur.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:29:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coach\\Edit.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Coach\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:15:32.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Attente.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Attente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\Attente.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Attente.cshtml",
+              "RelativeToolTip": "Views\\Employe\\Attente.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T12:34:46.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeController.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\EmployeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeController.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\EmployeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:09:39.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\Edit.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employe\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvz0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:33:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employe\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:32:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organisation\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Details.cshtml",
+              "RelativeToolTip": "Views\\Organisation\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:25:06.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PageLoginEmploye.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\PageLoginEmploye.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\PageLoginEmploye.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\PageLoginEmploye.cshtml",
+              "RelativeToolTip": "Views\\Employe\\PageLoginEmploye.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:11:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Employe.cs",
+              "RelativeDocumentMoniker": "Models\\Employe.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Employe.cs",
+              "RelativeToolTip": "Models\\Employe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:59:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employe\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T12:59:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241126123754_TraitementEmployeMigration.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241126123754_TraitementEmployeMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241126123754_TraitementEmployeMigration.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241126123754_TraitementEmployeMigration.cs",
+              "RelativeToolTip": "Migrations\\20241126123754_TraitementEmployeMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:37:54.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\Delete.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employe\\Delete.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:31:38.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SportController.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\SportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SportController.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\SportController.cs",
+              "RelativeToolTip": "Controllers\\SportController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwHEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:48:43.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Employe\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employe\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Employe\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employe\\Create.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAIMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T13:00:24.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CoachController.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\CoachController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoachController.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\CoachController.cs",
+              "RelativeToolTip": "Controllers\\CoachController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:47:37.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coach\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Create.cshtml",
+              "RelativeToolTip": "Views\\Coach\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:20:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sport\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Create.cshtml",
+              "RelativeToolTip": "Views\\Sport\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:15:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organisation\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Create.cshtml",
+              "RelativeToolTip": "Views\\Organisation\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:25:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\STEVEN\\SportData\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T09:16:59.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evenement\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Create.cshtml",
+              "RelativeToolTip": "Views\\Evenement\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:23:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrateur\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Index.cshtml",
+              "RelativeToolTip": "Views\\Administrateur\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:09:06.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20241122160812_EmployeMigration.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241122160812_EmployeMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241122160812_EmployeMigration.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241122160812_EmployeMigration.cs",
+              "RelativeToolTip": "Migrations\\20241122160812_EmployeMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:08:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrateur\\Create.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Create.cshtml",
+              "RelativeToolTip": "Views\\Administrateur\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:11:42.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrateur\\Delete.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Administrateur\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:10:35.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coach\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Index.cshtml",
+              "RelativeToolTip": "Views\\Coach\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T14:19:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241122150413_AdminMigration.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241122150413_AdminMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241122150413_AdminMigration.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241122150413_AdminMigration.cs",
+              "RelativeToolTip": "Migrations\\20241122150413_AdminMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:04:14.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sport\\Delete.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Sport\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:15:08.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sport\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Index.cshtml",
+              "RelativeToolTip": "Views\\Sport\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T14:21:03.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrateur\\Edit.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Administrateur\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:09:37.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrateur\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Administrateur\\Details.cshtml",
+              "RelativeToolTip": "Views\\Administrateur\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:10:08.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sport\\Edit.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Sport\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:13:42.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Sport\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sport\\Details.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Sport\\Details.cshtml",
+              "RelativeToolTip": "Views\\Sport\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:14:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Administrateur.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Administrateur.cs",
+              "RelativeDocumentMoniker": "Models\\Administrateur.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Administrateur.cs",
+              "RelativeToolTip": "Models\\Administrateur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:51:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evenement\\Edit.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Evenement\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:21:35.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Coach\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Coach\\Delete.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Coach\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Coach\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:20:02.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Evenement\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Evenement\\Delete.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Evenement\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Evenement\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:23:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organisation\\Edit.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Organisation\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:24:23.287Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Organisation\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Organisation\\Delete.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Organisation\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Organisation\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:25:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Coach.cs",
+              "RelativeDocumentMoniker": "Models\\Coach.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Coach.cs",
+              "RelativeToolTip": "Models\\Coach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T10:11:09.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\STEVEN\\SportData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T14:04:59.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241120143843_SpecificiteEvenementMigration.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
+              "RelativeToolTip": "Migrations\\20241120143843_SpecificiteEvenementMigration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:38:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrganisationController.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Controllers\\OrganisationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganisationController.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Controllers\\OrganisationController.cs",
+              "RelativeToolTip": "Controllers\\OrganisationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:49:22.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20241120134333_EntiteMigration.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241120134333_EntiteMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120134333_EntiteMigration.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Migrations\\20241120134333_EntiteMigration.cs",
+              "RelativeToolTip": "Migrations\\20241120134333_EntiteMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:43:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Evenement.cs",
+              "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\Evenement.cs",
+              "RelativeDocumentMoniker": "Models\\Evenement.cs",
+              "ToolTip": "D:\\STEVEN\\SportData\\Models\\Evenement.cs",
+              "RelativeToolTip": "Models\\Evenement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:32:39.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -840,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 59,
               "Title": "20241120095517_InitialMigration.cs",
               "DocumentMoniker": "D:\\STEVEN\\SportData\\Migrations\\20241120095517_InitialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20241120095517_InitialMigration.cs",

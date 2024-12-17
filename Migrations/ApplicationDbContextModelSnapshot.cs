@@ -114,6 +114,10 @@ namespace SportData.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("prenom");
 
+                    b.Property<bool>("Traitement")
+                        .HasColumnType("bit")
+                        .HasColumnName("traitement");
+
                     b.Property<bool>("Validation")
                         .HasColumnType("bit")
                         .HasColumnName("validation");

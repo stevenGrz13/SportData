@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    List<SpecificiteEvenement> liste = ViewData["detailevenement"] as List<SpecificiteEvenement>;
+}
+
+<h1>@ViewBag.Evenement</h1>
+
+<table class="table">
+    <tr>
+        <th>Sport</th>
+        <th>Date Debut</th>
+        <th>Date Fin</th>
+        <th>Nombre de place</th>
+    </tr>
+    @foreach(var v in liste)
+    {
+        <tr>
+            <td>@v.Sport.Nom</td>
+            <td>@v.DateDebut</td>
+            <td>@v.DateFin</td>
+            <td>@v.NombrePlace</td>
+        </tr>
+    }
+</table>

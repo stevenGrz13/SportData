@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRldXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/STEVEN/SportData/Views/Administrateur/PageLoginAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRldXJcUGFnZUxvZ2luQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/STEVEN/SportData/Views/Coach/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,6 +72,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/STEVEN/SportData/Views/Coach/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STEVEN/SportData/Views/Employe/Attente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZVxBdHRlbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/STEVEN/SportData/Views/Employe/Create.cshtml]
@@ -90,8 +98,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/STEVEN/SportData/Views/Employe/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZVxMb2dpbi5jc2h0bWw=
+[D:/STEVEN/SportData/Views/Employe/PageLoginEmploye.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZVxQYWdlTG9naW5FbXBsb3llLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STEVEN/SportData/Views/EvenementSpec/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbmVtZW50U3BlY1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/STEVEN/SportData/Views/Evenement/Create.cshtml]

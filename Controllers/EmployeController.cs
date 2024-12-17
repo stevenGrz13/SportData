@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -22,7 +23,12 @@ namespace SportData.Controllers
         // GET: Employe
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Employe.Include(e => e.Organisation);
+            var applicationDbContext = _context.Employe.Include(e => e.Organisation).Where(a => a.Validation);
+            return View(await applicationDbContext.ToListAsync());
+        }
+        public async Task<IActionResult> Attente()
+        {
+            var applicationDbContext = _context.Employe.Include(e => e.Organisation).Where(a => !a.Validation && !a.Traitement);
             return View(await applicationDbContext.ToListAsync());
         }
 
@@ -45,9 +51,32 @@ namespace SportData.Controllers
             return View(employe);
         }
 
-        public IActionResult Login()
+        public IActionResult PageLoginEmploye(string? messageerreur)
         {
+            string message = "";
+            if(messageerreur != null)
+            {
+                message = messageerreur;
+            }
+            ViewBag.messageerreur = message;
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult LoginEmploye(string adressecourriel, string motdepasse)
+        {
+            List<Employe> employe = _context.Employe
+                    .Where(a => a.AdresseCourriel.ToLower().Equals(adressecourriel.ToLower()) && a.MotDePasse.ToLower().Equals(motdepasse.ToLower()) && a.Validation == true)
+                    .ToList();
+            if (employe.Count > 0)
+            {
+                HttpContext.Session.SetString("idemploye", employe[0].Id + "");
+                return RedirectToAction("Index", "Evenement");
+            }
+            else
+            {
+                return RedirectToAction("PageLoginEmploye", new { messageerreur = "Verifiez vos identifiants" });
+            }
         }
 
         // GET: Employe/Create
@@ -68,7 +97,7 @@ namespace SportData.Controllers
             {
                 _context.Add(employe);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("PageLoginEmploye");
             }
             ViewData["IdOrganisation"] = new SelectList(_context.Organisation, "Id", "Nom", employe.IdOrganisation);
             return View(employe);

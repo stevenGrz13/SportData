@@ -14,6 +14,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddSession();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -33,12 +35,14 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseSession();
+
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-    //pattern: "{controller=Employe}/{action=Login}/{id?}");
+//pattern: "{controller=Home}/{action=Index}/{id?}");
+pattern: "{controller=Evenement}/{action=Index}/{id?}");
 app.MapRazorPages();
 
 app.Run();

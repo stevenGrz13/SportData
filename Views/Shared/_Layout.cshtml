@@ -115,16 +115,49 @@
     <!-- Main Content Area -->
     <div class="content-wrapper">
         <!-- Sidebar -->
+
         <aside class="sidebar">
-            <ul>
-                <li><a href="/Coach/Index">Coachs</a></li>
-                <li><a href="/Sport/Index">Sports</a></li>
-                <li><a href="/Organisation/Index">Organisations</a></li>
-                <li><a href="/Evenement/Index">Calendrier</a></li>
-                <li><a href="/Evenement/Index">Evenement</a></li>
-                <li><a href="#">Dashboard</a></li>
-            </ul>
+            <!-- Menu principal -->
+            <a class="nav-link" data-bs-toggle="collapse" href="#donnees-collapse" aria-expanded="false" aria-controls="donnees-collapse">
+                <i class="menu-icon mdi mdi-floor-plan"></i>
+                <span class="menu-title">- Donnees</span>
+            </a>
+            <!-- Sous-menu Donnees -->
+            <div class="collapse" id="donnees-collapse">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item"><a class="nav-link" href="/Sport/Index">-- Sports</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Coach/Index">-- Coachs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Organisation/Index">-- Organisations</a></li>
+                </ul>
+            </div>
+
+            <!-- Menu Evenement -->
+            <a class="nav-link" data-bs-toggle="collapse" href="#evenement-collapse" aria-expanded="false" aria-controls="evenement-collapse">
+                <i class="menu-icon mdi mdi-calendar"></i> <!-- Icone de l'événement -->
+                <span class="menu-title">- Evenement</span>
+            </a>
+            <!-- Sous-menu Evenement -->
+            <div class="collapse" id="evenement-collapse">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item"><a class="nav-link" href="/Evenement/Index">-- Liste des événements</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Evenement/Index">-- Calendrier</a></li>
+                </ul>
+            </div>
+
+            <!-- Autres menus -->
+            <a class="nav-link" data-bs-toggle="collapse" href="#employe-collapse" aria-expanded="false" aria-controls="employe-collapse">
+                <i class="menu-icon mdi mdi-floor-plan"></i>
+                <span class="menu-title">- Employe</span>
+            </a>
+            <!-- Sous-menu Employe -->
+            <div class="collapse" id="employe-collapse">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item"><a class="nav-link" href="/Employe/Index">-- Liste</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Employe/Attente">-- En attente</a></li>
+                </ul>
+            </div>
         </aside>
+
 
         <!-- Main Content -->
         <main>

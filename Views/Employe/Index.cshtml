@@ -4,10 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h2>Inscription</h2>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Créer un nouvel employé</a>
 </p>
 <table class="table">
     <thead>
@@ -22,44 +22,27 @@
                 @Html.DisplayNameFor(model => model.AdresseCourriel)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.MotDePasse)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Validation)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Organisation)
             </th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nom)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Prenom)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AdresseCourriel)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MotDePasse)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Validation)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Organisation.Id)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Prenom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdresseCourriel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Organisation.Nom)
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

@@ -50,6 +50,10 @@ header[b-5vy5n0mt0x] {
         font-weight: bold;
     }
 
+    .nav-item[b-5vy5n0mt0x] {
+        left: 10px;
+    }
+
 /* Content Wrapper */
 .content-wrapper[b-5vy5n0mt0x] {
     display: flex;
@@ -112,4 +116,8 @@ footer[b-5vy5n0mt0x] {
 
         footer a:hover[b-5vy5n0mt0x] {
             text-decoration: underline;
+        }
+
+        .li[b-5vy5n0mt0x]{
+            margin-left: 10px;
         }
